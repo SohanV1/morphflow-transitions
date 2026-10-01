@@ -1,0 +1,8 @@
+{
+  "name": "MorphFlow",
+  "description": "Create seamless, blurred page transitions for a fluid and professional web browsing experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
